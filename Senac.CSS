@@ -1,0 +1,49 @@
+body{background: rgb(255,158,0);
+    /* background: linear-gradient(90deg,  rgb(111, 179, 243) 2%, rgb(120, 180, 250) 98%, rgb(255, 157, 0) 100%); */
+     background: rgb(36,25,0);
+    background: linear-gradient(90deg, rgba(36,25,0,0.8435749299719888) 0%, rgba(70,32,4,0.9164040616246498) 29%, rgba(82,33,5,0.927608543417367) 54%, rgba(121,63,9,0.8379726890756303) 75%, rgba(255,119,0,0.938813025210084) 100%);;
+    
+    
+    
+}
+
+
+.Senac{ 
+    background: none ;
+
+margin: 30px;
+
+}
+
+img{
+background-color: coral; 
+padding: 5px;
+border: 0px;
+
+}
+
+
+
+
+
+
+h1{ color: coral;
+
+}
+
+
+h2{ color: coral;
+
+}
+
+ li{
+            list-style-type: none;
+            border-style: solid;
+            border-width: 1px ;
+            border-color: white;
+            background-color: #fcd079;
+            text-align: center;
+            width: 250px;
+            /* Se quiser que cada item fique lado a lado */
+            /* float: left; */
+        }
